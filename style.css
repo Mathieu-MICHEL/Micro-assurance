@@ -19,12 +19,9 @@ header{
   padding:10px;
 }
 
-content{
-  padding-bottom: 20px;
-}
 
 #ligne{
-  padding:5px;
+  padding:30px;
 }
 
 h1{
@@ -63,9 +60,9 @@ A.lien1:hover {
 }
 
 #intro{
-  margin: 30px;
+  margin: 5px;
   padding: 20px;
-  width: 75%;
+  width: 898px;
   margin-left:auto;
   margin-right:auto;
   background-color: rgba(0,50,100,0.8);
@@ -75,15 +72,15 @@ A.lien1:hover {
 }
 
 #wrap {
-  width: 100%;
+  width:1200px;
   text-align:center;
   margin-left:auto;
   margin-right:auto;
 }
 
 #ressource {
-  padding: 36px;
-  width:33%;
+  padding: 15px;
+  width:300px;
   background-color: rgba(250,230,70, 0.8);
   border: 1px grey solid;
   border-radius: 0px 0px 0px 20px;
@@ -91,8 +88,8 @@ A.lien1:hover {
 }
 
 #collab {
-  padding: 36px;
-  width:33%;
+  padding: 15px;
+  width:300px;
   background-color: rgba(50,180,50, 0.8);
   border: 1px grey solid;
   border-radius: 0px 0px 0px 0px;
@@ -100,8 +97,8 @@ A.lien1:hover {
 }
 
 #synthese {
-  padding: 36px;
-  width:33%;
+  padding: 15px;
+  width:300px;
   background-color: rgba(230,80,30, 0.8);
   border: 1px grey solid;
   border-radius: 0px 0px 20px 0px;
