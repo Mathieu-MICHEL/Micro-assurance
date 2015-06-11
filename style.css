@@ -59,7 +59,7 @@ A.lien1:hover {
   background-color: rgb(0,50,100);
 }
 
-#intro{
+article{
   margin: 5px;
   padding: 20px;
   width: 898px;
@@ -118,7 +118,7 @@ A.lien2:hover {
 
 
 #ligne2{
-  padding:10px;
+  padding:60px;
 }
 
 A.lien3 {
@@ -130,7 +130,14 @@ A.lien3:hover {
   color: rgb(0,50,100);
 }
 
-footer{
+#credit{
+position:absolute;
+bottom:0;
+left:0;
+display: inline;
+}
+
+#github{
 margin: 5px;
 padding: 5px;
 height: 20px;
@@ -144,7 +151,7 @@ border-radius: 10px 0px 10px 0px;
 display: inline;
 }
 
-footer:hover {
+#github:hover {
   background: white;
 }
 

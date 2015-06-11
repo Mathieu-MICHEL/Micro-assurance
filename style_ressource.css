@@ -3,5 +3,9 @@ body {
   background-color: rgb(0,50,100);
   color: white;
   font-family: Trebuchet MS;
-  text-align: center;
+  text-align: left;
 } 
+
+a{
+color: orange;
+}
