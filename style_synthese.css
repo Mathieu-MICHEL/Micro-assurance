@@ -3,5 +3,13 @@ body {
   background-color: rgb(0,50,100);
   color: white;
   font-family: Trebuchet MS;
-  text-align: center;
 } 
+
+h1 {text-align: center;}
+
+article { 
+ border: 3px white solid;
+ border-radius: 20px 20px 20px 20px;
+ padding: 10px;
+ margin: 10px;
+ }
