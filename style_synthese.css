@@ -3,6 +3,7 @@ body {
   background-color: rgb(0,50,100);
   color: white;
   font-family: Trebuchet MS;
+  text-align: left;
 } 
 
 a{
@@ -22,8 +23,5 @@ article {
  text-align: justify;
 }
 
-#MiP1 {
-height: 400px;
-background-color: rgb(0,40,80)
-}
+
 

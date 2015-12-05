@@ -1,7 +1,7 @@
 
 body {
-  background-color: rgb(0,50,100);
-  color: white;
+  background-color: rgb(235, 235, 205);
+  color: rgb(80, 80, 90);
   font-family: Trebuchet MS;
   text-align: left;
 } 
@@ -12,25 +12,26 @@ color: orange;
 
 h1 {text-align: center;}
 
+img {float:left; margin: 10px;}
 
 article { 
- width:75%;
+ width:90%;
  margin:auto;
  margin-bottom:10px;
- border: 3px white solid;
- border-radius: 20px 20px 20px 20px;
- padding: 10px;
-
+ border-radius: 20px 0px 20px 0px;
+ padding: 25px;
  text-align: justify;
+ background-color: rgb(225, 225, 185);
+ min-height:400px;
 }
 
-section { 
+
+section{ 
  width:90%;
  margin:auto;
  margin-bottom:10px;
  border: 3px white solid;
  border-radius: 20px 20px 20px 20px;
- padding: 10px;
-
+ padding: 50px;
  text-align: justify;
 }
