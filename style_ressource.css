@@ -1,18 +1,24 @@
+html {
+ height: 100%;
+ width:100%;
+}
+
 
 body {
-  background-color: rgb(235, 235, 205);
-  color: rgb(80, 80, 90);
+  min-height:100%;	
+  background-image:url(Images/paper.png);
+  color: rgb(70, 70, 80);
   font-family: Trebuchet MS;
   text-align: left;
 } 
 
 a{
-color: orange;
+color: blue;
 }
 
 h1 {text-align: center;}
 
-img {float:left; margin: 10px;}
+img {float:left; margin: 5px;}
 
 article { 
  width:90%;
@@ -21,7 +27,7 @@ article {
  border-radius: 20px 0px 20px 0px;
  padding: 25px;
  text-align: justify;
- background-color: rgb(225, 225, 185);
+ background-color: rgba(0, 0, 50, 0.2);
  min-height:400px;
 }
 
@@ -34,4 +40,22 @@ section{
  border-radius: 20px 20px 20px 20px;
  padding: 50px;
  text-align: justify;
+}
+
+footer {
+ margin-left:auto;
+ margin-right:auto;
+ bottom:0;
+ margin-bottom:0;
+}
+
+#wrap2 {
+ width: 1000px;
+ margin-left:auto;
+ margin-right:auto;
+ margin-bottom:-8px;
+ background-color: rgba(150,150,150,0.8);
+ border-radius: 30px 30px 0px 0px;
+ font-size: 12px;
+ padding: 10px;
 }
