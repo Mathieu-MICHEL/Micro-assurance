@@ -6,10 +6,9 @@ html {
 body {
   font-family: Trebuchet MS;
   text-align: justify;
-  background-image:url(Images/Farmer_in_Vietnam.jpg);
+  background-image:url(Images/fond.jpg);
   background-repeat:no-repeat;
-  background-size:100%;
-  background-position: 20%; 
+  background-size:100%; 
 } 
 
 header {
